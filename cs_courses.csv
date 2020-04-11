@@ -1,4 +1,4 @@
-number,name,sum(gd.a_count),sum(gd.ab_count),sum(gd.b_count),sum(gd.bc_count),sum(gd.c_count),sum(gd.d_count),sum(gd.f_count)
+number,name,A,AB,B,BC,C,D,F
 200,Programming I,2180,2900,3980,2220,1880,780,440
 202,Introduction to Computation,478,232,127,63,30,20,13
 240,Introduction to Discrete Mathematics,14416,7483,18701,7220,4959,1917,1397
