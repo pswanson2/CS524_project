@@ -305,8 +305,8 @@
         "course_type": [
         ],
         "course_cat": [
-			"Ai"
-			"ThAl"
+			"Ai",
+			"ThAl",
 			"Dat"
         ],
         "season_offered": [
@@ -323,8 +323,8 @@
         "course_type": [
         ],
         "course_cat": [
-			"Ai"
-			"ThAl"
+			"Ai",
+			"ThAl",
 			"Dat"
         ],
         "season_offered": [
@@ -795,7 +795,7 @@
         "course_type": [
         ],
         "course_cat": [
-			"Ai"
+			"Ai",
 			"ThAl",
 			"Eco",
 			"Rob",
