@@ -10,6 +10,7 @@
 			"basic_cs"
         ],
         "course_cat": [
+			"App"
         ],
         "season_offered": [
         ],
@@ -23,8 +24,11 @@
         "industry_rating": 7,
         "research_rating": 5,
         "course_type": [
+
         ],
         "course_cat": [
+			"Arc",
+			"Sys"
         ],
         "season_offered": [
         ],
@@ -40,6 +44,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"App",
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -55,6 +61,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Arc",
+			"Sys",
+			"Rob"
         ],
         "season_offered": [
         ],
@@ -70,6 +79,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Arc",
+			"Sys"
         ],
         "season_offered": [
         ],
@@ -85,6 +96,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App"
         ],
         "season_offered": [
         ],
@@ -100,6 +113,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App"
         ],
         "season_offered": [
         ],
@@ -115,6 +130,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -130,6 +147,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -145,6 +164,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Eco"
         ],
         "season_offered": [
         ],
@@ -160,6 +181,10 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl",
+			"Eco",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -175,6 +200,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -190,6 +216,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App"
         ],
         "season_offered": [
         ],
@@ -205,6 +233,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -220,6 +251,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -235,6 +268,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"App",
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -261,7 +297,7 @@
         "class_name": "Linear Programming Methods",
         "gpa": 2.949211909,
         "industry_rating": 6,
-        "research_rating": ,
+        "research_rating": 6,
         "course_type": [
         ],
         "course_cat": [
@@ -276,7 +312,7 @@
         "class_name": "Advanced Linear Programming",
         "gpa": 2.6875,
         "industry_rating": 6,
-        "research_rating": ,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -291,7 +327,7 @@
         "class_name": "Theory and Applications of Pattern Recognition",
         "gpa": 3.408959538,
         "industry_rating": 5,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -306,7 +342,7 @@
         "class_name": "Image Processing",
         "gpa": 3.427698574,
         "industry_rating": 6,
-        "research_rating": ,
+        "research_rating": 7.6,
         "course_type": [
         ],
         "course_cat": [
@@ -321,7 +357,7 @@
         "class_name": "Computational Photography",
         "gpa": 3.285,
         "industry_rating": 6,
-        "research_rating": ,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -336,7 +372,7 @@
         "class_name": "Introduction to Programming Languages and Compilers",
         "gpa": 3.165486726,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -351,7 +387,7 @@
         "class_name": "Introduction to Operating Systems",
         "gpa": 3.372149424,
         "industry_rating": 9,
-        "research_rating": ,
+        "research_rating": 8.3,
         "course_type": [
         ],
         "course_cat": [
@@ -366,7 +402,7 @@
         "class_name": "Introduction to the Theory and Design of Programming Languages",
         "gpa": 3.23,
         "industry_rating": 3,
-        "research_rating": ,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -381,7 +417,7 @@
         "class_name": "Introduction to Artificial Neural Network and Fuzzy Systems",
         "gpa": 3.105,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -395,8 +431,8 @@
         "course_num": "COMP SCI 540",
         "class_name": "Introduction to Artificial Intelligence",
         "gpa": 3.137957856,
-        "industry_rating": 6,
-        "research_rating": ,
+        "industry_rating": 7,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -411,7 +447,7 @@
         "class_name": "Natural Language and Computing",
         "gpa": 3.776315789,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -426,7 +462,7 @@
         "class_name": "Comp Systms Mdlng Fundmntls",
         "gpa": 3.58,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 6.7,
         "course_type": [
         ],
         "course_cat": [
@@ -441,7 +477,7 @@
         "class_name": "Introduction to Computer Architecture",
         "gpa": 3.134720701,
         "industry_rating": 8.8,
-        "research_rating": ,
+        "research_rating": 8.9,
         "course_type": [
         ],
         "course_cat": [
@@ -456,7 +492,7 @@
         "class_name": "Introduction to Computational Geometry",
         "gpa": 3.655172414,
         "industry_rating": 5,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -471,7 +507,7 @@
         "class_name": "Computer Graphics",
         "gpa": 3.108283433,
         "industry_rating": 6.5,
-        "research_rating": ,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -486,7 +522,7 @@
         "class_name": "Database Management Systems: Design and Implementation",
         "gpa": 3.401515152,
         "industry_rating": 7.7,
-        "research_rating": ,
+        "research_rating": 4,
         "course_type": [
         ],
         "course_cat": [
@@ -501,7 +537,7 @@
         "class_name": "Medical Image Analysis",
         "gpa": 3.147727273,
         "industry_rating": 6,
-        "research_rating": ,
+        "research_rating": 6,
         "course_type": [
         ],
         "course_cat": [
@@ -516,7 +552,7 @@
         "class_name": "Introduction to Human-Computer Interaction",
         "gpa": 3.60864745,
         "industry_rating": 8.7,
-        "research_rating": ,
+        "research_rating": 7.3,
         "course_type": [
         ],
         "course_cat": [
@@ -531,7 +567,7 @@
         "class_name": "Introduction to Bioinformatics",
         "gpa": 3.274617068,
         "industry_rating": 8,
-        "research_rating": ,
+        "research_rating": 7.8,
         "course_type": [
         ],
         "course_cat": [
@@ -546,7 +582,7 @@
         "class_name": "Introduction to Algorithms",
         "gpa": 3.149271002,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -561,7 +597,7 @@
         "class_name": "Virtual Reality",
         "gpa": 3.862068966,
         "industry_rating": 8,
-        "research_rating": ,
+        "research_rating": 4,
         "course_type": [
         ],
         "course_cat": [
@@ -576,7 +612,7 @@
         "class_name": "Tools and Environments for Optimization",
         "gpa": 3.51147541,
         "industry_rating": 8,
-        "research_rating": ,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -606,7 +642,7 @@
         "class_name": "Introduction to Computer Networks",
         "gpa": 3.264409881,
         "industry_rating": 9,
-        "research_rating": ,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -621,7 +657,7 @@
         "class_name": "Introduction to Information Security",
         "gpa": 3.386850153,
         "industry_rating": 8,
-        "research_rating": ,
+        "research_rating": 4.7,
         "course_type": [
         ],
         "course_cat": [
@@ -636,7 +672,7 @@
         "class_name": "Computer Game Technology",
         "gpa": 3.726851852,
         "industry_rating": 8,
-        "research_rating": ,
+        "research_rating": 3.3,
         "course_type": [
         ],
         "course_cat": [
@@ -651,7 +687,7 @@
         "class_name": "Signals, Information, and Computation",
         "gpa": 3.10864486,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -666,7 +702,7 @@
         "class_name": "Signals and Systems",
         "gpa": 3.022779795,
         "industry_rating": 8,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -681,7 +717,7 @@
         "class_name": "Introduction to Random Signal Analysis and Statistics",
         "gpa": 2.917865707,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -696,7 +732,7 @@
         "class_name": "Calculus--Functions of Several Variables",
         "gpa": 2.87695035,
         "industry_rating": 4.5,
-        "research_rating": ,
+        "research_rating": 3,
         "course_type": [
         ],
         "course_cat": [
@@ -711,7 +747,7 @@
         "class_name": "Introduction to Probability and Mathematical Statistics I",
         "gpa": 3.026936317,
         "industry_rating": 4,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -726,7 +762,7 @@
         "class_name": "Introduction to Probability and Mathematical Statistics II",
         "gpa": 3.04313205,
         "industry_rating": 4,
-        "research_rating": ,
+        "research_rating": 8.3,
         "course_type": [
         ],
         "course_cat": [
@@ -741,7 +777,7 @@
         "class_name": "Techniques in Ordinary Differential Equations",
         "gpa": 2.939852269,
         "industry_rating": 3,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -756,7 +792,7 @@
         "class_name": "Linear Algebra and Differential Equations",
         "gpa": 2.812000537,
         "industry_rating": 7,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -771,7 +807,7 @@
         "class_name": "Applied Mathematical Analysis I",
         "gpa": 2.446919234,
         "industry_rating": 6.6,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -786,7 +822,7 @@
         "class_name": "Applied Mathematical Analysis II",
         "gpa": 3.044345898,
         "industry_rating": 6,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -801,7 +837,7 @@
         "class_name": "Intro:Prob&Markov Chain Mod",
         "gpa": 2.826241135,
         "industry_rating": 4,
-        "research_rating": ,
+        "research_rating": 7.8,
         "course_type": [
         ],
         "course_cat": [
@@ -816,7 +852,7 @@
         "class_name": "Elementary Matrix and Linear Algebra",
         "gpa": 2.851787687,
         "industry_rating": 5.6,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -831,7 +867,7 @@
         "class_name": "Linear Algebra",
         "gpa": 3.066780822,
         "industry_rating": 3.2,
-        "research_rating": ,
+        "research_rating": 8.5,
         "course_type": [
         ],
         "course_cat": [
@@ -846,7 +882,7 @@
         "class_name": "Topics in Multi-Variable Calculus and Linear Algebra",
         "gpa": 3.286217304,
         "industry_rating": 2.3,
-        "research_rating": ,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -861,7 +897,7 @@
         "class_name": "Topics in Multi-Variable Calculus and Differential Equations",
         "gpa": 3.305058366,
         "industry_rating": 3,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -876,7 +912,7 @@
         "class_name": "The Theory of Single Variable Calculus",
         "gpa": 3.071736964,
         "industry_rating": 2,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -891,7 +927,7 @@
         "class_name": "Introduction to the Theory of Probability",
         "gpa": 2.896206607,
         "industry_rating": 3,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -906,7 +942,7 @@
         "class_name": "Applied Linear Algebra",
         "gpa": 3.382882883,
         "industry_rating": 5,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -921,7 +957,7 @@
         "class_name": "College Geometry I",
         "gpa": 3.234076433,
         "industry_rating": 0.2,
-        "research_rating": ,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -936,7 +972,7 @@
         "class_name": "Analysis I",
         "gpa": 3.011659118,
         "industry_rating": 0.1,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -951,7 +987,7 @@
         "class_name": "Analysis II",
         "gpa": 2.888764464,
         "industry_rating": 0.1,
-        "research_rating": ,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -966,7 +1002,7 @@
         "class_name": "Modern Algebra",
         "gpa": 3.307560137,
         "industry_rating": 0.1,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -981,7 +1017,7 @@
         "class_name": "Elementary Number Theory",
         "gpa": 3.113636364,
         "industry_rating": 0.1,
-        "research_rating": ,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -996,7 +1032,7 @@
         "class_name": "Mathematical Logic",
         "gpa": 2.976923077,
         "industry_rating": 0.2,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -1011,7 +1047,7 @@
         "class_name": ,
         "gpa": 2.849711981,
         "industry_rating": 2,
-        "research_rating": ,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -1026,7 +1062,7 @@
         "class_name": "Calculus I",
         "gpa": 2.766288758,
         "industry_rating": 2,
-        "research_rating": ,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -1041,7 +1077,7 @@
         "class_name": "Calculus II",
         "gpa": 3.027873353,
         "industry_rating": 2,
-        "research_rating": ,
+        "research_rating": 6,
         "course_type": [
         ],
         "course_cat": [
@@ -1056,7 +1092,7 @@
         "class_name": "Introduction to Theory and Methods of Mathematical Statistics I",
         "gpa": 3.155594069,
         "industry_rating": 2,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -1071,7 +1107,7 @@
         "class_name": "Introduction to Theory and Methods of Mathematical Statistics II",
         "gpa": 3.337140796,
         "industry_rating": 2,
-        "research_rating": ,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -1085,8 +1121,8 @@
         "course_num": "STAT 324",
         "class_name": "Introductory Applied Statistics for Engineers",
         "gpa": 3.157733538,
-        "industry_rating": 7,
-        "research_rating": ,
+        "industry_rating": 6,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
