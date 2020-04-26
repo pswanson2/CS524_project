@@ -269,7 +269,6 @@
         ],
         "course_cat": [
 			"Ai",
-			"App",
 			"ThAl"
         ],
         "season_offered": [
@@ -286,6 +285,11 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"App",
+			"ThAl",
+			"Eco",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -301,6 +305,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai"
+			"ThAl"
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -316,6 +323,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai"
+			"ThAl"
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -326,11 +336,16 @@
         "course_num": "COMP SCI 532",
         "class_name": "Theory and Applications of Pattern Recognition",
         "gpa": 3.408959538,
-        "industry_rating": 5,
+        "industry_rating": 6,
         "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"Sys",
+			"App",
+			"ThAl",
+			"Rob"
         ],
         "season_offered": [
         ],
@@ -346,6 +361,10 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"App",
+			"ThAl",
+			"Rob"
         ],
         "season_offered": [
         ],
@@ -361,6 +380,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"App"
         ],
         "season_offered": [
         ],
@@ -376,6 +396,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys"
         ],
         "season_offered": [
         ],
@@ -391,6 +412,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Arc",
+			"Sys"
         ],
         "season_offered": [
         ],
@@ -406,6 +429,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Arc",
+			"Sys",
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -421,6 +447,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -436,6 +464,12 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"App",
+			"ThAl",
+			"Eco",
+			"Rob",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -451,6 +485,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -466,6 +502,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys"
         ],
         "season_offered": [
         ],
@@ -481,6 +518,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Arc",
+			"Sys"
         ],
         "season_offered": [
         ],
@@ -496,6 +535,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -511,6 +551,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"App"
         ],
         "season_offered": [
         ],
@@ -526,6 +567,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -541,6 +585,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Dat",
+			"Bio"
         ],
         "season_offered": [
         ],
@@ -556,6 +602,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"App"
         ],
         "season_offered": [
         ],
@@ -571,6 +618,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"Bio"
         ],
         "season_offered": [
         ],
@@ -586,6 +634,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -601,6 +650,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App"
         ],
         "season_offered": [
         ],
@@ -616,6 +667,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"App"
         ],
         "season_offered": [
         ],
@@ -631,6 +683,15 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"Arc",
+			"Sys",
+			"App",
+			"ThAl",
+			"Eco",
+			"Rob",
+			"Dat",
+			"Bio"
         ],
         "season_offered": [
         ],
@@ -646,6 +707,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App"
         ],
         "season_offered": [
         ],
@@ -661,6 +724,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App"
         ],
         "season_offered": [
         ],
@@ -676,6 +741,8 @@
         "course_type": [
         ],
         "course_cat": [
+			"Sys",
+			"App"
         ],
         "season_offered": [
         ],
@@ -691,6 +758,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Arc",
+			"Sys",
+			"Rob"
         ],
         "season_offered": [
         ],
@@ -706,6 +776,10 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"Arc",
+			"Sys",
+			"Rob"
         ],
         "season_offered": [
         ],
@@ -721,6 +795,11 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai"
+			"ThAl",
+			"Eco",
+			"Rob",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -751,6 +830,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Eco",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -766,6 +848,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Eco",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -781,6 +866,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -796,6 +882,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -811,6 +898,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -826,6 +914,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -841,6 +930,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -856,6 +946,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -871,6 +964,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -886,6 +982,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -901,6 +998,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -916,6 +1014,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -931,6 +1030,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Eco",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -946,6 +1048,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"Ai",
+			"ThAl",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -961,6 +1066,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -976,6 +1082,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -991,6 +1098,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -1006,6 +1114,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -1021,6 +1130,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -1036,6 +1146,7 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -1044,7 +1155,7 @@
     },
     {
         "course_num": "MATH 221",
-        "class_name": ,
+        "class_name": "Calculus I",
         "gpa": 2.849711981,
         "industry_rating": 2,
         "research_rating": 5,
@@ -1059,7 +1170,7 @@
     },
     {
         "course_num": "MATH 222",
-        "class_name": "Calculus I",
+        "class_name": "Calculus II",
         "gpa": 2.766288758,
         "industry_rating": 2,
         "research_rating": 5,
@@ -1074,13 +1185,14 @@
     },
     {
         "course_num": "MATH 240",
-        "class_name": "Calculus II",
+        "class_name": "Discrete mathematics",
         "gpa": 3.027873353,
         "industry_rating": 2,
         "research_rating": 6,
         "course_type": [
         ],
         "course_cat": [
+			"ThAl"
         ],
         "season_offered": [
         ],
@@ -1096,6 +1208,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Eco",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -1111,6 +1226,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Eco",
+			"Dat"
         ],
         "season_offered": [
         ],
@@ -1126,6 +1244,9 @@
         "course_type": [
         ],
         "course_cat": [
+			"ThAl",
+			"Rob",
+			"Dat"
         ],
         "season_offered": [
         ],
