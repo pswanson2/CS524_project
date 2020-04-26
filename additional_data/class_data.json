@@ -4,8 +4,8 @@
         "course_num": "COMP SCI 200",
         "class_name": "Programming I",
         "gpa": 2.844228095,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 4,
+        "research_rating": 2,
         "course_type": [
 			"basic_cs"
         ],
@@ -18,10 +18,10 @@
     },
     {
         "course_num": "COMP SCI 252",
-        "class_name": ,
+        "class_name": "Introduction to Computer Engineering",
         "gpa": 3.260386683,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 7,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -33,10 +33,10 @@
     },
     {
         "course_num": "COMP SCI 300",
-        "class_name": ,
+        "class_name": "Programming II",
         "gpa": 3.183544304,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 5,
+        "research_rating": 3,
         "course_type": [
         ],
         "course_cat": [
@@ -48,10 +48,10 @@
     },
     {
         "course_num": "COMP SCI 352",
-        "class_name": ,
+        "class_name": "Digital System Fundamentals",
         "gpa": 3.006989892,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 7,
+        "research_rating": 6,
         "course_type": [
         ],
         "course_cat": [
@@ -63,10 +63,10 @@
     },
     {
         "course_num": "COMP SCI 354",
-        "class_name": ,
+        "class_name": "Machine Organization and Programming",
         "gpa": 3.069396492,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 7,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -78,10 +78,10 @@
     },
     {
         "course_num": "COMP SCI 400",
-        "class_name": ,
+        "class_name": "Programming III",
         "gpa": 3.3,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 5,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -93,10 +93,10 @@
     },
     {
         "course_num": "COMP SCI 407",
-        "class_name": ,
+        "class_name": "Foundations of Mobile Systems and Applications",
         "gpa": 3.632332879,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 7,
+        "research_rating": 3,
         "course_type": [
         ],
         "course_cat": [
@@ -108,10 +108,10 @@
     },
     {
         "course_num": "COMP SCI 412",
-        "class_name": ,
+        "class_name": "Introduction to Numerical Methods",
         "gpa": 3.003965631,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 3,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -123,10 +123,10 @@
     },
     {
         "course_num": "COMP SCI 425",
-        "class_name": ,
+        "class_name": "Introduction to Combinatorial Optimization",
         "gpa": 3.220930233,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 6,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -138,10 +138,10 @@
     },
     {
         "course_num": "COMP SCI 435",
-        "class_name": ,
+        "class_name": "Introduction to Cryptography",
         "gpa": 2.880407125,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 6,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -153,10 +153,10 @@
     },
     {
         "course_num": "COMP SCI 471",
-        "class_name": ,
+        "class_name": "Introduction to Computational Statistics",
         "gpa": 3.525,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 6,
+        "research_rating": 8,
         "course_type": [
         ],
         "course_cat": [
@@ -168,10 +168,10 @@
     },
     {
         "course_num": "COMP SCI 475",
-        "class_name": ,
+        "class_name": "Introduction to Combinatorics",
         "gpa": 3.099164927,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 4,
+        "research_rating": 7,
         "course_type": [
         ],
         "course_cat": [
@@ -183,10 +183,10 @@
     },
     {
         "course_num": "COMP SCI 506",
-        "class_name": ,
+        "class_name": "Software Engineering",
         "gpa": 3.452475248,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 6,
+        "research_rating": 5,
         "course_type": [
         ],
         "course_cat": [
@@ -198,10 +198,10 @@
     },
     {
         "course_num": "COMP SCI 513",
-        "class_name": ,
+        "class_name": "Numerical Linear Algebra",
         "gpa": 3.050802139,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 1,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -213,10 +213,10 @@
     },
     {
         "course_num": "COMP SCI 514",
-        "class_name": ,
+        "class_name": "Numerical Analysis",
         "gpa": 3.143712575,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 1,
+        "research_rating": 9,
         "course_type": [
         ],
         "course_cat": [
@@ -228,10 +228,10 @@
     },
     {
         "course_num": "COMP SCI 520",
-        "class_name": ,
+        "class_name": "Introduction to Theory of Computing",
         "gpa": 3.003384095,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 4,
+        "research_rating": 8.4,
         "course_type": [
         ],
         "course_cat": [
@@ -243,10 +243,10 @@
     },
     {
         "course_num": "COMP SCI 524",
-        "class_name": ,
+        "class_name": "Introduction to Optimization",
         "gpa": 3.306451613,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 6,
+        "research_rating": 7.3,
         "course_type": [
         ],
         "course_cat": [
@@ -258,9 +258,9 @@
     },
     {
         "course_num": "COMP SCI 525",
-        "class_name": ,
+        "class_name": "Linear Programming Methods",
         "gpa": 2.949211909,
-        "industry_rating": ,
+        "industry_rating": 6,
         "research_rating": ,
         "course_type": [
         ],
@@ -273,9 +273,9 @@
     },
     {
         "course_num": "COMP SCI 526",
-        "class_name": ,
+        "class_name": "Advanced Linear Programming",
         "gpa": 2.6875,
-        "industry_rating": ,
+        "industry_rating": 6,
         "research_rating": ,
         "course_type": [
         ],
@@ -288,9 +288,9 @@
     },
     {
         "course_num": "COMP SCI 532",
-        "class_name": ,
+        "class_name": "Theory and Applications of Pattern Recognition",
         "gpa": 3.408959538,
-        "industry_rating": ,
+        "industry_rating": 5,
         "research_rating": ,
         "course_type": [
         ],
@@ -303,9 +303,9 @@
     },
     {
         "course_num": "COMP SCI 533",
-        "class_name": ,
+        "class_name": "Image Processing",
         "gpa": 3.427698574,
-        "industry_rating": ,
+        "industry_rating": 6,
         "research_rating": ,
         "course_type": [
         ],
@@ -318,9 +318,9 @@
     },
     {
         "course_num": "COMP SCI 534",
-        "class_name": ,
+        "class_name": "Computational Photography",
         "gpa": 3.285,
-        "industry_rating": ,
+        "industry_rating": 6,
         "research_rating": ,
         "course_type": [
         ],
@@ -333,9 +333,9 @@
     },
     {
         "course_num": "COMP SCI 536",
-        "class_name": ,
+        "class_name": "Introduction to Programming Languages and Compilers",
         "gpa": 3.165486726,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -348,9 +348,9 @@
     },
     {
         "course_num": "COMP SCI 537",
-        "class_name": ,
+        "class_name": "Introduction to Operating Systems",
         "gpa": 3.372149424,
-        "industry_rating": ,
+        "industry_rating": 9,
         "research_rating": ,
         "course_type": [
         ],
@@ -363,9 +363,9 @@
     },
     {
         "course_num": "COMP SCI 538",
-        "class_name": ,
+        "class_name": "Introduction to the Theory and Design of Programming Languages",
         "gpa": 3.23,
-        "industry_rating": ,
+        "industry_rating": 3,
         "research_rating": ,
         "course_type": [
         ],
@@ -378,9 +378,9 @@
     },
     {
         "course_num": "COMP SCI 539",
-        "class_name": ,
+        "class_name": "Introduction to Artificial Neural Network and Fuzzy Systems",
         "gpa": 3.105,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -393,9 +393,9 @@
     },
     {
         "course_num": "COMP SCI 540",
-        "class_name": ,
+        "class_name": "Introduction to Artificial Intelligence",
         "gpa": 3.137957856,
-        "industry_rating": ,
+        "industry_rating": 6,
         "research_rating": ,
         "course_type": [
         ],
@@ -408,9 +408,9 @@
     },
     {
         "course_num": "COMP SCI 545",
-        "class_name": ,
+        "class_name": "Natural Language and Computing",
         "gpa": 3.776315789,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -423,9 +423,9 @@
     },
     {
         "course_num": "COMP SCI 547",
-        "class_name": ,
+        "class_name": "Comp Systms Mdlng Fundmntls",
         "gpa": 3.58,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -438,9 +438,9 @@
     },
     {
         "course_num": "COMP SCI 552",
-        "class_name": ,
+        "class_name": "Introduction to Computer Architecture",
         "gpa": 3.134720701,
-        "industry_rating": ,
+        "industry_rating": 8.8,
         "research_rating": ,
         "course_type": [
         ],
@@ -453,9 +453,9 @@
     },
     {
         "course_num": "COMP SCI 558",
-        "class_name": ,
+        "class_name": "Introduction to Computational Geometry",
         "gpa": 3.655172414,
-        "industry_rating": ,
+        "industry_rating": 5,
         "research_rating": ,
         "course_type": [
         ],
@@ -468,9 +468,9 @@
     },
     {
         "course_num": "COMP SCI 559",
-        "class_name": ,
+        "class_name": "Computer Graphics",
         "gpa": 3.108283433,
-        "industry_rating": ,
+        "industry_rating": 6.5,
         "research_rating": ,
         "course_type": [
         ],
@@ -483,9 +483,9 @@
     },
     {
         "course_num": "COMP SCI 564",
-        "class_name": ,
+        "class_name": "Database Management Systems: Design and Implementation",
         "gpa": 3.401515152,
-        "industry_rating": ,
+        "industry_rating": 7.7,
         "research_rating": ,
         "course_type": [
         ],
@@ -498,9 +498,9 @@
     },
     {
         "course_num": "COMP SCI 567",
-        "class_name": ,
+        "class_name": "Medical Image Analysis",
         "gpa": 3.147727273,
-        "industry_rating": ,
+        "industry_rating": 6,
         "research_rating": ,
         "course_type": [
         ],
@@ -513,9 +513,9 @@
     },
     {
         "course_num": "COMP SCI 570",
-        "class_name": ,
+        "class_name": "Introduction to Human-Computer Interaction",
         "gpa": 3.60864745,
-        "industry_rating": ,
+        "industry_rating": 8.7,
         "research_rating": ,
         "course_type": [
         ],
@@ -528,9 +528,9 @@
     },
     {
         "course_num": "COMP SCI 576",
-        "class_name": ,
+        "class_name": "Introduction to Bioinformatics",
         "gpa": 3.274617068,
-        "industry_rating": ,
+        "industry_rating": 8,
         "research_rating": ,
         "course_type": [
         ],
@@ -543,9 +543,9 @@
     },
     {
         "course_num": "COMP SCI 577",
-        "class_name": ,
+        "class_name": "Introduction to Algorithms",
         "gpa": 3.149271002,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -558,9 +558,9 @@
     },
     {
         "course_num": "COMP SCI 579",
-        "class_name": ,
+        "class_name": "Virtual Reality",
         "gpa": 3.862068966,
-        "industry_rating": ,
+        "industry_rating": 8,
         "research_rating": ,
         "course_type": [
         ],
@@ -573,9 +573,9 @@
     },
     {
         "course_num": "COMP SCI 635",
-        "class_name": ,
+        "class_name": "Tools and Environments for Optimization",
         "gpa": 3.51147541,
-        "industry_rating": ,
+        "industry_rating": 8,
         "research_rating": ,
         "course_type": [
         ],
@@ -588,10 +588,10 @@
     },
     {
         "course_num": "COMP SCI 639",
-        "class_name": ,
+        "class_name": "Undergraduate Elective Topics in Computing",
         "gpa": 3.38,
-        "industry_rating": ,
-        "research_rating": ,
+        "industry_rating": 0,
+        "research_rating": 0,
         "course_type": [
         ],
         "course_cat": [
@@ -603,9 +603,9 @@
     },
     {
         "course_num": "COMP SCI 640",
-        "class_name": ,
+        "class_name": "Introduction to Computer Networks",
         "gpa": 3.264409881,
-        "industry_rating": ,
+        "industry_rating": 9,
         "research_rating": ,
         "course_type": [
         ],
@@ -618,9 +618,9 @@
     },
     {
         "course_num": "COMP SCI 642",
-        "class_name": ,
+        "class_name": "Introduction to Information Security",
         "gpa": 3.386850153,
-        "industry_rating": ,
+        "industry_rating": 8,
         "research_rating": ,
         "course_type": [
         ],
@@ -633,9 +633,9 @@
     },
     {
         "course_num": "COMP SCI 679",
-        "class_name": ,
+        "class_name": "Computer Game Technology",
         "gpa": 3.726851852,
-        "industry_rating": ,
+        "industry_rating": 8,
         "research_rating": ,
         "course_type": [
         ],
@@ -648,9 +648,9 @@
     },
     {
         "course_num": "ECE 203",
-        "class_name": ,
+        "class_name": "Signals, Information, and Computation",
         "gpa": 3.10864486,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -663,9 +663,9 @@
     },
     {
         "course_num": "ECE 330",
-        "class_name": ,
+        "class_name": "Signals and Systems",
         "gpa": 3.022779795,
-        "industry_rating": ,
+        "industry_rating": 8,
         "research_rating": ,
         "course_type": [
         ],
@@ -678,9 +678,9 @@
     },
     {
         "course_num": "ECE 331",
-        "class_name": ,
+        "class_name": "Introduction to Random Signal Analysis and Statistics",
         "gpa": 2.917865707,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -693,9 +693,9 @@
     },
     {
         "course_num": "MATH 234",
-        "class_name": ,
+        "class_name": "Calculus--Functions of Several Variables",
         "gpa": 2.87695035,
-        "industry_rating": ,
+        "industry_rating": 4.5,
         "research_rating": ,
         "course_type": [
         ],
@@ -708,9 +708,9 @@
     },
     {
         "course_num": "MATH 309",
-        "class_name": ,
+        "class_name": "Introduction to Probability and Mathematical Statistics I",
         "gpa": 3.026936317,
-        "industry_rating": ,
+        "industry_rating": 4,
         "research_rating": ,
         "course_type": [
         ],
@@ -723,9 +723,9 @@
     },
     {
         "course_num": "MATH 310",
-        "class_name": ,
+        "class_name": "Introduction to Probability and Mathematical Statistics II",
         "gpa": 3.04313205,
-        "industry_rating": ,
+        "industry_rating": 4,
         "research_rating": ,
         "course_type": [
         ],
@@ -738,9 +738,9 @@
     },
     {
         "course_num": "MATH 319",
-        "class_name": ,
+        "class_name": "Techniques in Ordinary Differential Equations",
         "gpa": 2.939852269,
-        "industry_rating": ,
+        "industry_rating": 3,
         "research_rating": ,
         "course_type": [
         ],
@@ -753,9 +753,9 @@
     },
     {
         "course_num": "MATH 320",
-        "class_name": ,
+        "class_name": "Linear Algebra and Differential Equations",
         "gpa": 2.812000537,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
@@ -768,9 +768,9 @@
     },
     {
         "course_num": "MATH 321",
-        "class_name": ,
+        "class_name": "Applied Mathematical Analysis I",
         "gpa": 2.446919234,
-        "industry_rating": ,
+        "industry_rating": 6.6,
         "research_rating": ,
         "course_type": [
         ],
@@ -783,9 +783,9 @@
     },
     {
         "course_num": "MATH 322",
-        "class_name": ,
+        "class_name": "Applied Mathematical Analysis II",
         "gpa": 3.044345898,
-        "industry_rating": ,
+        "industry_rating": 6,
         "research_rating": ,
         "course_type": [
         ],
@@ -798,9 +798,9 @@
     },
     {
         "course_num": "MATH 331",
-        "class_name": ,
+        "class_name": "Intro:Prob&Markov Chain Mod",
         "gpa": 2.826241135,
-        "industry_rating": ,
+        "industry_rating": 4,
         "research_rating": ,
         "course_type": [
         ],
@@ -813,9 +813,9 @@
     },
     {
         "course_num": "MATH 340",
-        "class_name": ,
+        "class_name": "Elementary Matrix and Linear Algebra",
         "gpa": 2.851787687,
-        "industry_rating": ,
+        "industry_rating": 5.6,
         "research_rating": ,
         "course_type": [
         ],
@@ -828,9 +828,9 @@
     },
     {
         "course_num": "MATH 341",
-        "class_name": ,
+        "class_name": "Linear Algebra",
         "gpa": 3.066780822,
-        "industry_rating": ,
+        "industry_rating": 3.2,
         "research_rating": ,
         "course_type": [
         ],
@@ -843,9 +843,9 @@
     },
     {
         "course_num": "MATH 375",
-        "class_name": ,
+        "class_name": "Topics in Multi-Variable Calculus and Linear Algebra",
         "gpa": 3.286217304,
-        "industry_rating": ,
+        "industry_rating": 2.3,
         "research_rating": ,
         "course_type": [
         ],
@@ -858,9 +858,9 @@
     },
     {
         "course_num": "MATH 376",
-        "class_name": ,
+        "class_name": "Topics in Multi-Variable Calculus and Differential Equations",
         "gpa": 3.305058366,
-        "industry_rating": ,
+        "industry_rating": 3,
         "research_rating": ,
         "course_type": [
         ],
@@ -873,9 +873,9 @@
     },
     {
         "course_num": "MATH 421",
-        "class_name": ,
+        "class_name": "The Theory of Single Variable Calculus",
         "gpa": 3.071736964,
-        "industry_rating": ,
+        "industry_rating": 2,
         "research_rating": ,
         "course_type": [
         ],
@@ -888,9 +888,9 @@
     },
     {
         "course_num": "MATH 431",
-        "class_name": ,
+        "class_name": "Introduction to the Theory of Probability",
         "gpa": 2.896206607,
-        "industry_rating": ,
+        "industry_rating": 3,
         "research_rating": ,
         "course_type": [
         ],
@@ -903,9 +903,9 @@
     },
     {
         "course_num": "MATH 443",
-        "class_name": ,
+        "class_name": "Applied Linear Algebra",
         "gpa": 3.382882883,
-        "industry_rating": ,
+        "industry_rating": 5,
         "research_rating": ,
         "course_type": [
         ],
@@ -918,9 +918,9 @@
     },
     {
         "course_num": "MATH 461",
-        "class_name": ,
+        "class_name": "College Geometry I",
         "gpa": 3.234076433,
-        "industry_rating": ,
+        "industry_rating": 0.2,
         "research_rating": ,
         "course_type": [
         ],
@@ -933,9 +933,9 @@
     },
     {
         "course_num": "MATH 521",
-        "class_name": ,
+        "class_name": "Analysis I",
         "gpa": 3.011659118,
-        "industry_rating": ,
+        "industry_rating": 0.1,
         "research_rating": ,
         "course_type": [
         ],
@@ -948,9 +948,9 @@
     },
     {
         "course_num": "MATH 541",
-        "class_name": ,
+        "class_name": "Analysis II",
         "gpa": 2.888764464,
-        "industry_rating": ,
+        "industry_rating": 0.1,
         "research_rating": ,
         "course_type": [
         ],
@@ -963,9 +963,9 @@
     },
     {
         "course_num": "MATH 542",
-        "class_name": ,
+        "class_name": "Modern Algebra",
         "gpa": 3.307560137,
-        "industry_rating": ,
+        "industry_rating": 0.1,
         "research_rating": ,
         "course_type": [
         ],
@@ -978,9 +978,9 @@
     },
     {
         "course_num": "MATH 567",
-        "class_name": ,
+        "class_name": "Elementary Number Theory",
         "gpa": 3.113636364,
-        "industry_rating": ,
+        "industry_rating": 0.1,
         "research_rating": ,
         "course_type": [
         ],
@@ -993,9 +993,9 @@
     },
     {
         "course_num": "MATH 571",
-        "class_name": ,
+        "class_name": "Mathematical Logic",
         "gpa": 2.976923077,
-        "industry_rating": ,
+        "industry_rating": 0.2,
         "research_rating": ,
         "course_type": [
         ],
@@ -1010,7 +1010,7 @@
         "course_num": "MATH 221",
         "class_name": ,
         "gpa": 2.849711981,
-        "industry_rating": ,
+        "industry_rating": 2,
         "research_rating": ,
         "course_type": [
         ],
@@ -1023,9 +1023,9 @@
     },
     {
         "course_num": "MATH 222",
-        "class_name": ,
+        "class_name": "Calculus I",
         "gpa": 2.766288758,
-        "industry_rating": ,
+        "industry_rating": 2,
         "research_rating": ,
         "course_type": [
         ],
@@ -1038,9 +1038,9 @@
     },
     {
         "course_num": "MATH 240",
-        "class_name": ,
+        "class_name": "Calculus II",
         "gpa": 3.027873353,
-        "industry_rating": ,
+        "industry_rating": 2,
         "research_rating": ,
         "course_type": [
         ],
@@ -1053,9 +1053,9 @@
     },
     {
         "course_num": "STAT 311",
-        "class_name": ,
+        "class_name": "Introduction to Theory and Methods of Mathematical Statistics I",
         "gpa": 3.155594069,
-        "industry_rating": ,
+        "industry_rating": 2,
         "research_rating": ,
         "course_type": [
         ],
@@ -1068,9 +1068,9 @@
     },
     {
         "course_num": "STAT 312",
-        "class_name": ,
+        "class_name": "Introduction to Theory and Methods of Mathematical Statistics II",
         "gpa": 3.337140796,
-        "industry_rating": ,
+        "industry_rating": 2,
         "research_rating": ,
         "course_type": [
         ],
@@ -1083,9 +1083,9 @@
     },
     {
         "course_num": "STAT 324",
-        "class_name": ,
+        "class_name": "Introductory Applied Statistics for Engineers",
         "gpa": 3.157733538,
-        "industry_rating": ,
+        "industry_rating": 7,
         "research_rating": ,
         "course_type": [
         ],
