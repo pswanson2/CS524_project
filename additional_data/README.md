@@ -28,10 +28,11 @@ used to sort students interests, duplicate also allowed, empty allowed
 	Arc = computer architecture
 	Sys = computer system
 	App= Application development
-	Alg= Theory and Algorithm
+	ThAl= Theory and Algorithm
 	Eco=Economics
 	Rob= Robotics
 	Dat= Data analysis
+	Bio = Biomedical
 
 #### season_offered
 	SP = spring, FA = fall, S=summer, NF = not frequent

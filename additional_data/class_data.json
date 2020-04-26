@@ -39,7 +39,7 @@
         "course_num": "COMP SCI 300",
         "class_name": "Programming II",
         "gpa": 3.183544304,
-        "industry_rating": 5,
+        "industry_rating": 6.5,
         "research_rating": 3,
         "course_type": [
         ],
@@ -91,7 +91,7 @@
         "course_num": "COMP SCI 400",
         "class_name": "Programming III",
         "gpa": 3.3,
-        "industry_rating": 5,
+        "industry_rating": 8,
         "research_rating": 7,
         "course_type": [
         ],
